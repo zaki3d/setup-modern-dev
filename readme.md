@@ -1,5 +1,5 @@
-# Setup for modern development workflow
-This is my first real foray into modern web development. This gist is a documentation of the setup I used for my development workflow.
+# Setup for Modern Development
+This is my first real foray into modern web development. This gist is a documentation of the apps and packages I used to setup my modern development workflow.
 
 ## OS setup
 ### Apps
