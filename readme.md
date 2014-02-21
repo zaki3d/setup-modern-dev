@@ -1,3 +1,6 @@
+# Setup for modern development workflow
+This is my first real foray into modern web development. This gist is a documentation of the setup I used for my development workflow.
+
 ## OS setup
 ### Apps
 1. Sublime Text 2 - Text editor for code, markup and prose (http://www.sublimetext.com/2)
