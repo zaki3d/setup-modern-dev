@@ -21,7 +21,8 @@ This is my first real foray into modern web development. This gist is a document
 2. [pip](http://www.pip-installer.org/en/latest/) - Tool for installing and managing Python packages.
 3. [YADR dotfiles](https://github.com/skwp/dotfiles) - The top dotfile repos, vim and zsh plugins curated in one place.
 4. [NPM](https://www.npmjs.org/) - Node packaged modules.
-5. Command Line Interface (CLI)
+5. [Heroku Toolbelt](https://toolbelt.heroku.com/) - Everything to get started using Heroku.
+6. Command Line Interface (CLI)
 	- [AWS CLI](http://aws.amazon.com/cli/) - A unified command line interface to many Amazon Web Services.
 	- [Dandelion](https://github.com/scttnlsn/dandelion) - Incremental Git repository deployment for OS X.
 
@@ -29,6 +30,7 @@ This is my first real foray into modern web development. This gist is a document
 1. [Packagist](https://packagist.org/) - Composer package repository.
 2. [Composer](https://getcomposer.org/) - Dependency manager for PHP.
 3. [Grunt](http://gruntjs.com/getting-started) - JavaScript task runner.
+4. [Bower](https://github.com/bower/bower) - A generic, unopinionated solution to the problem of front-end package management.
 
 ## Back-end setup
 1. [Pagodabox](https://pagodabox.com/) — Object oriented hosting framework.
