@@ -34,3 +34,24 @@ This is my first real foray into modern web development. This gist is a document
 
 ## Back-end setup
 1. [Pagodabox](https://pagodabox.com/) — Object oriented hosting framework.
+
+## Sublime Text User Settings
+Default settings for Sublime Text.
+	{
+  "theme": "Spacegray Eighties.sublime-theme",
+  "color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
+  "font_face": "Source Code Pro",
+  "font_size": 14,
+  "line_padding_bottom": 2,
+  "line_padding_top": 2,
+
+  "highlight_line": true,
+  "bold_folder_labels": true,
+
+  "translate_tabs_to_spaces": true,
+  "tab_size": 2,
+  "ignored_packages":
+  [
+    "Vintage"
+  ]
+}
