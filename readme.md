@@ -37,6 +37,10 @@ This is my first real foray into modern web development. This gist is a document
 
 ## Sublime Text User Settings
 Default settings for Sublime Text.
+
+### Dependencies
+1. [Source Code Pro font](https://github.com/adobe-fonts/source-code-pro)
+1. [Spacegray theme](http://kkga.github.io/spacegray/)
 ```
 {
   "theme": "Spacegray Eighties.sublime-theme",
