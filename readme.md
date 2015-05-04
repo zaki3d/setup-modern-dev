@@ -37,7 +37,7 @@ This is my first real foray into modern web development. This gist is a document
 
 ## Sublime Text User Settings
 Default settings for Sublime Text.
-	{
+	```{
   "theme": "Spacegray Eighties.sublime-theme",
   "color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
   "font_face": "Source Code Pro",
@@ -54,4 +54,4 @@ Default settings for Sublime Text.
   [
     "Vintage"
   ]
-}
+}```
